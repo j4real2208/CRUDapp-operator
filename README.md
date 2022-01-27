@@ -42,20 +42,20 @@ Docker Image 🐳
 
 #### - Deployments (1.Operator 2. App Deployment )
 
->![Not Found ](https://github.ibm.com/JOJO-Johnson/crud-app_operator/blob/main/resources/Deploy.png)
+>![Not Found ](https://github.com/j4real2208/CRUDapp-operator/blob/main/resources/Deploy.png)
 
 #### - The Config Map 
 
->![Not Found ](https://github.ibm.com/JOJO-Johnson/crud-app_operator/blob/main/resources/cm.png)
+>![Not Found ](https://github.com/j4real2208/CRUDapp-operator/blob/main/resources/cm.png)
 
 #### - Service
 
->![Not Found ](https://github.ibm.com/JOJO-Johnson/crud-app_operator/blob/main/resources/svc.png)
+>![Not Found ](https://github.com/j4real2208/CRUDapp-operator/blob/main/resources/svc.png)
 
 
 #### - Route
 
->![Not Found ](https://github.ibm.com/JOJO-Johnson/crud-app_operator/blob/main/resources/route.png)
+>![Not Found ](https://github.com/j4real2208/CRUDapp-operator/blob/main/resources/route.png)
 
 
 
